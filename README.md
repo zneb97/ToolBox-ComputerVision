@@ -1,4 +1,4 @@
 # ToolBox-ComputerVision
 Image Processing and Computer Vision Project Toolbox starter code
 
-Full instructions at https://sites.google.com/site/sd16spring/home/project-toolbox/image-processing
+Full instructions at [the course website](https://sd17spring.github.io/toolboxes/image-processing/)
